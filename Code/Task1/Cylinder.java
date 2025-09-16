@@ -3,8 +3,6 @@ private double height; // private variable
 // Constructor with default color, radius and height
 public Cylinder() {
 
-3
-
 super(); // call superclass no-arg constructor Circle()
 height = 1.0;
 }

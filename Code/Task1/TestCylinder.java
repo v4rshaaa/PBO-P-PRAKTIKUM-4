@@ -19,8 +19,6 @@ System.out.println("Cylinder:"
 // Declare and allocate a new instance of cylinder
 // specifying radius and height, with default color
 
-4
-
 Cylinder c3 = new Cylinder(2.0, 10.0);
 System.out.println("Cylinder:"
 + " radius=" + c3.getRadius()

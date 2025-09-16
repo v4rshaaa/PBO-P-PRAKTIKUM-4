@@ -6,8 +6,6 @@ public class Circle { // Save as "Circle.java"
 private double radius;
 private String color;
 
-2
-
 // Constructors (overloaded)
 public Circle(double radius, String color){
    this.radius = radius;

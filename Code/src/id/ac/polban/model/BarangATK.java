@@ -18,4 +18,3 @@ public class BarangATK extends Barang {
         return merk;
     }
 }
-

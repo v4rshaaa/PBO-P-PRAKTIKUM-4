@@ -18,4 +18,3 @@ public class BarangMinuman extends Barang {
         return ukuran;
     }
 }
-

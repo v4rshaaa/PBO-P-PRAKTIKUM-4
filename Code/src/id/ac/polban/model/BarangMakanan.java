@@ -18,4 +18,3 @@ public class BarangMakanan extends Barang {
         return rasa;
     }
 }
-
